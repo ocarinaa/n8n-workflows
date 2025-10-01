@@ -7,3 +7,6 @@
 [submodule "n8n-remwaste-challenge"]
 	path = n8n-remwaste-challenge
 	url = https://github.com/umur957/n8n-remwaste-challenge.git
+[submodule "n8n-doi-enrichment"]
+	path = n8n-doi-enrichment
+	url = https://github.com/umur957/n8n-doi-enrichment.git
